@@ -33,6 +33,7 @@ public class Coin {
 		Coin coin=new Coin();
 		String name=coin.getName(amount);
 		System.out.println(name);
-	}
+        System.out.println("Hello World!");
+    }
 
 }
